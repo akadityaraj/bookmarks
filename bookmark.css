@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+
+
+    background-image: url(123.jpg);
+
+    background-size: cover;
+
+}
+
+style {
+    background-color: rgb(31, 226, 135);
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(44, 209, 7);
+    animation-fill-mode: initial;
+
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
